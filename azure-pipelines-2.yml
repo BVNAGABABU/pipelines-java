@@ -59,7 +59,7 @@ stages:
 - stage: DeployToProduction
   displayName: 'Deploy to production'
   dependsOn: DeploytoStaging
-  lockDehavior: sequential
+  lockBehavior: sequential
   condition: and(succeeded(), in(variables['Build.SourceBranch'], 'refs/heads/main', 'refs/heads/release'))
   jobs:
   - job: DeployProductionJob
