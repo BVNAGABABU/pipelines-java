@@ -1,4 +1,4 @@
-
+[![Build Status](https://dev.azure.com/aksdemoserver/azure-devops-github-acr-aks-app1/_apis/build/status%2FBVNAGABABU.pipelines-java%20(10)?branchName=refs%2Fpull%2F1%2Fmerge)](https://dev.azure.com/aksdemoserver/azure-devops-github-acr-aks-app1/_build/latest?definitionId=10&branchName=refs%2Fpull%2F1%2Fmerge)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
